@@ -1,0 +1,140 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 513,
+		"common": 64
+	},
+	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 82,
+		"common": 1
+	},
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 1
+	},
+	{
+		"name": "bogons",
+		"category": "unroutable",
+		"ips": 592708608,
+		"common": 6
+	},
+	{
+		"name": "cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 594617240,
+		"common": 6
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 626613113,
+		"common": 64
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34666983,
+		"common": 1
+	},
+	{
+		"name": "fullbogons",
+		"category": "unroutable",
+		"ips": 606619592,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 10
+	},
+	{
+		"name": "iblocklist_cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 594615704,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227995701,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_iana_multicast",
+		"category": "unroutable",
+		"ips": 268435456,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_iana_reserved",
+		"category": "unroutable",
+		"ips": 536870912,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_isp_charter",
+		"category": "organizations",
+		"ips": 6138112,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_embarq",
+		"category": "organizations",
+		"ips": 2703360,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_qwest",
+		"category": "organizations",
+		"ips": 15777552,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756602705,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338044615,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137234275,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 8
+	}
+]

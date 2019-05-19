@@ -1,0 +1,80 @@
+[
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 276815,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 75254,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 213247,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 50275,
+		"common": 3
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 426728,
+		"common": 7
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 917764,
+		"common": 30
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 905940,
+		"common": 30
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34666983,
+		"common": 256
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756602705,
+		"common": 16777472
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338044615,
+		"common": 1536
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137234275,
+		"common": 1024
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 904283,
+		"common": 30
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 256
+	}
+]

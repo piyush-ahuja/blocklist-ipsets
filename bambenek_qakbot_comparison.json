@@ -1,0 +1,50 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 487,
+		"common": 1
+	},
+	{
+		"name": "bambenek_dircrypt",
+		"category": "malware",
+		"ips": 4,
+		"common": 1
+	},
+	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 16,
+		"common": 1
+	},
+	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 83,
+		"common": 1
+	},
+	{
+		"name": "bambenek_suppobox",
+		"category": "malware",
+		"ips": 76,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 626612834,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 66126,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227993016,
+		"common": 1
+	}
+]

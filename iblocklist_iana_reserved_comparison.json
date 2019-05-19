@@ -1,0 +1,200 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 513,
+		"common": 6
+	},
+	{
+		"name": "bambenek_necurs",
+		"category": "malware",
+		"ips": 64,
+		"common": 6
+	},
+	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5269984,
+		"common": 20
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 23629,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 3472,
+		"common": 1
+	},
+	{
+		"name": "bi_spam_0_1d",
+		"category": "attacks",
+		"ips": 890,
+		"common": 1
+	},
+	{
+		"name": "bogons",
+		"category": "unroutable",
+		"ips": 592708608,
+		"common": 536870912
+	},
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 18384,
+		"common": 1
+	},
+	{
+		"name": "cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 594617240,
+		"common": 536870912
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 961,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 12889,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 276815,
+		"common": 283
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 75254,
+		"common": 57
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 500,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 7275,
+		"common": 9
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 213247,
+		"common": 271
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 50275,
+		"common": 54
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 6257,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 81713,
+		"common": 36
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 29705,
+		"common": 7
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 20226,
+		"common": 9
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 426728,
+		"common": 283
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 626613113,
+		"common": 536870912
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9397840,
+		"common": 2
+	},
+	{
+		"name": "fullbogons",
+		"category": "unroutable",
+		"ips": 606619592,
+		"common": 536870912
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 66126,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 520093696
+	},
+	{
+		"name": "iblocklist_cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 594615704,
+		"common": 536870912
+	},
+	{
+		"name": "iblocklist_fornonlancomputers",
+		"category": "reputation",
+		"ips": 302055424,
+		"common": 268435456
+	},
+	{
+		"name": "iblocklist_iana_multicast",
+		"category": "unroutable",
+		"ips": 268435456,
+		"common": 268435456
+	},
+	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 338363,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 512
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 81621,
+		"common": 2
+	}
+]
